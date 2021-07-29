@@ -1,6 +1,6 @@
 #
-# D-NetPAD
-Code for Iris Presentation Attack Detection based on DenseNet Architecture.
+# Iris Morphing
+Code for creating iris morphs from two iris images belongs to two different subjects.
 
 # Requirement
 Numpy, Scipy, OpenCV, Matplotlib
