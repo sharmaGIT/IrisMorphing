@@ -1,6 +1,6 @@
 #
 # Iris Morphing
-Code for creating iris morphs from two iris images belongs to two different subjects.
+Code for creating iris morphs from two iris images belong to two different subjects.
 
 # Requirement
 Numpy, Scipy, OpenCV, Matplotlib
